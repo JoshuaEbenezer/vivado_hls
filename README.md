@@ -7,5 +7,5 @@ Source codes for High Level Synthesis for Fixed Progammable Gate Arrays (FPGAs).
 2. Histogram stretching
 3. Histogram equalization
 4. Anisotropic diffusion (optimized for hardware)
-5. Simple 2D convolution using inbuilt an HLS function
+5. Simple 2D convolution using an inbuilt HLS function
 6. Simple 2D convolution using handwritten code
